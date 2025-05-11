@@ -2,7 +2,7 @@ echo '# Fitness Center Membership System 💪
 
 📊 **Presentation**  
 View the project presentation here:  
-👉 [Presentation Link](https://www.canva.com/design/YOUR_DESIGN/edit)  
+👉 [Presentation Link]([https://www.canva.com/design/YOUR_DESIGN/edit](https://www.canva.com/design/DAGnK5zSe7A/ffON9ASmgXTLB8xBlZe-KQ/edit?utm_content=DAGnK5zSe7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))  
 
 ## Overview  
 
